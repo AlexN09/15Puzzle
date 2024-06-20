@@ -1,0 +1,5 @@
+C:/Users/alexa/15Puzzle/.utmp/RelWithDebInfo/2b3ss13a/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/alexa/15Puzzle/.utmp/RelWithDebInfo/2b3ss13a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/alexa/15Puzzle/.utmp/RelWithDebInfo/2b3ss13a/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/alexa/15Puzzle/.utmp/RelWithDebInfo/2b3ss13a/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/alexa/15Puzzle/.utmp/RelWithDebInfo/2b3ss13a/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
