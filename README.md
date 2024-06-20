@@ -16,6 +16,3 @@ This project is an implementation of the classic 15 Puzzle game for Android devi
   <img src="https://github.com/AlexN09/15puzzle/assets/136353046/07a9b682-2ebf-4959-ac66-fcfbd22c8cc3" alt="gameScreen" width="300"/>
 </p>
 
-<p align="center">
-  15 Puzzle game for Android using Unity
-</p>
